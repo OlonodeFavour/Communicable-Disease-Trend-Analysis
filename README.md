@@ -4,7 +4,12 @@
 ![Tool](https://img.shields.io/badge/Tool-Power%20BI-yellow)
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 ![Type](https://img.shields.io/badge/Project-Healthcare%20Analytics-blue)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
+
+<img width="1408" height="787" alt="Commnicable disease dashboard" src="https://github.com/user-attachments/assets/c569e51f-839a-4dad-bf16-305530c4007a" />
+<img width="1445" height="798" alt="Communicable disease dashboard 2" src="https://github.com/user-attachments/assets/87293fed-6fa5-4676-938a-d804aff6b358" />
+
+
 
 ---
 
@@ -175,16 +180,6 @@ Based on the analysis, the following recommendations are suggested:
 
 ---
 
-## 📷 Dashboard Preview
-
-### **Overview Dashboard**
-![Overview Dashboard](./communicable-disease-dashboard-overview.png)
-
-### **Disease Explorer Dashboard**
-![Disease Explorer](./communicable-disease-dashboard-explorer.png)
-
-> *(Ensure the image files are uploaded and correctly named in your repository)*
-
 ---
 
 ## 🚀 Future Improvements
@@ -196,10 +191,6 @@ Based on the analysis, the following recommendations are suggested:
 
 ---
 
-## 📜 License
-This project is open-source and available under the **MIT License**.
-
----
 
 ## 🙌 Acknowledgements
 This project was developed using Power BI as part of a healthcare data analytics portfolio.
